@@ -1,11 +1,11 @@
 # Giant List of Everything
 Just a giant list of everything that matters, from tech, to politics to everything in between
 
-NB: Anything listed here is neither implicitly or explicitly endorsed or condoned by myself. Some listing may include things that are deemed important on the surface until dug into deeper. In essence, it is a list of things that may matter, pending future deeper consumption. This list is intended to be a forever living document. As the world changes, new and more relevant topics will be surfaced while older topics moved to an archive of sorts through commit history
+NB: Anything listed here is neither implicitly or explicitly endorsed or condoned by myself. Some listings may include things that are deemed important on the surface until dug into deeper. In essence, it is a list of things that may matter, pending future deeper consumption. This list is intended to be a forever living document. As the world changes, new and more relevant topics will be surfaced while older topics moved to an archive of sorts through commit history
 
 ## COVID (Australian Focused)
 
-- [COVID-19 in Australia](https://www.covid19data.com.au/) ; Visualise everything related to COVID in Australia, including progression fo outbreaks, vaccination rates, etc
+- [COVID-19 in Australia](https://www.covid19data.com.au/) ; Visualise everything related to COVID in Australia, including progression of outbreaks, vaccination rates, etc
 - [Chris Billington's COVID Breakdown](https://chrisbillington.net/COVID.html) ; Visualise COVID in Australia and across the world; typically updates daily with comprehensive breakdowns of certain outbreaks in Australia
 - [COVID Base](https://covidbaseau.com/) and associated [Twitter account](https://twitter.com/covidbaseau) ; Data breakdown of all things COVID in Australia run by three teenagers in Melbourne
 - [Worldometer - COVID](https://www.worldometers.info/coronavirus/) ; Worldwide data on COVID
