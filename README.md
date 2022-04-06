@@ -25,3 +25,7 @@ NB: Anything listed here is neither implicitly or explicitly endorsed or condone
 ## Data Visualisation Tools
 
 - [Seaborn](http://seaborn.pydata.org/index.html) ; Pretty data visualisation API in Python
+
+## Architecting Tools
+
+- [Excalidraw](https://excalidraw.com/) ; hand-drawn architecture drawing tool
